@@ -1,2 +1,2 @@
-scribe-plugin-sanitize.js
-=========================
+scribe-plugin-sanitize
+======================
